@@ -1,0 +1,16 @@
+.article-template-spliter,
+small.label, 
+small.label + a,
+.bx-rectangle-article,
+div[style="position:relative;"],
+.cnc-hledejceny,
+div[class^=p][id^=p],
+div[class^=K][id^=K],
+div[class*=_chaos] {
+    display: none !important;
+}
+
+.bodyPart {
+    display: block !important;
+    margin-bottom: 75px !important;
+}
